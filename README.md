@@ -1,6 +1,6 @@
 # Explore India
 
-![Screenshot of Explore India](https://github.com/khushi11saxena/Explore-India/blob/main/screen%20travel.png)
+![Screenshot of Explore India](https://github.com/kamleshkoli/Explore-India/blob/main/screen%20travel.png)
 
 
 ## Description
@@ -28,10 +28,10 @@ This project is built using pure HTML, CSS, and JavaScript without the use of an
 
 1. **Clone the repository:**
 
-   - `git clone https://github.com/khushi11saxena/Explore-India`
+   - `git clone https://github.com/kamleshkoli/Explore-India`
   
 
-2. **Open https://khushi11saxena.github.io/Explore-India/ in your browser:**
+2. **Open https://kamleshkoli.github.io/Explore-India/ in your browser:**
 
 
 ## Contact
