@@ -1,6 +1,6 @@
 # Explore India
 
-![Screenshot of Explore India](https://github.com/kamleshkoli/Explore-India/blob/main/screen%20travel.png)
+![Screenshot of Explore India](screen%20travel.png)
 
 
 ## Description
